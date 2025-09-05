@@ -83,11 +83,6 @@
   </a>
 </p>
 
-<h4 align="left">📊 Additional Expertise</h4>
-<p align="left">
-  Social Media Management <br/>
-  Analysis of social media functions for audience growth
-</p>
 
 ---
 
@@ -107,6 +102,13 @@
 </p>
 
 ---
+
+<h4 align="left">📊 Additional Expertise</h4>
+<p align="left">
+  Social Media Management <br/>
+  Analysis of social media functions for audience growth
+</p>
+
 
 <h3 align="left">🎯 Future Goals</h3>
 - Master advanced **MERN stack projects**  
